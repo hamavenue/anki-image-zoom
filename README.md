@@ -16,3 +16,7 @@ Anki's own View > Zoom (Ctrl+= / Ctrl+-) still zooms the whole page. This add-on
 
 - Symlink `src/` into your add-ons folder as `image_zoom` (Tools > Add-ons > View Files shows where that folder is), then restart Anki.
 - `./build.sh` creates `image_zoom.ankiaddon` for upload to https://ankiweb.net/shared/addons.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
