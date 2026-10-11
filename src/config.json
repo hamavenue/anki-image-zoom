@@ -1,0 +1,8 @@
+{
+    "zoom_in_shortcuts": ["Ctrl+Shift+=", "Ctrl+Shift++"],
+    "zoom_out_shortcuts": ["Ctrl+Shift+-"],
+    "reset_shortcuts": ["Ctrl+Shift+0"],
+    "step": 1.25,
+    "min_zoom": 0.5,
+    "max_zoom": 10.0
+}
