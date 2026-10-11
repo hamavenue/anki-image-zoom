@@ -2,6 +2,10 @@
 
 Zoom the images on your cards during review without changing the size of the text.
 
+## Install
+
+In Anki, open Tools > Add-ons > Get Add-ons and paste the code **593630103**, then restart Anki. The add-on's page is https://ankiweb.net/shared/info/593630103.
+
 | Action   | Shortcut (Cmd on macOS) |
 |----------|-------------------------|
 | Zoom in  | Ctrl+Shift+=            |
